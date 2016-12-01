@@ -6,17 +6,17 @@ timestamp: 2016-12-01T22:21:45.394821253Z
 hi
 * greeting
 
-< hi I'm dootly, your best buddy and personal batler
-* welcome
+< hi I'm dootly, your best buddy and personal butler
+* greeting
 
 Goodbye
 * goodbye
 
 < See you later!
-* welcome
+* goodbye
 
 later
 * goodbye
 
-< aligator
-* greeting
+< alligator:)
+* goodbye 
