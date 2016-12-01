@@ -29,3 +29,6 @@ $ npm i
 ```bash
 $ npm start
 ```
+
+/r some text will write response to question
+/reset - to clear the current converation and start fress
