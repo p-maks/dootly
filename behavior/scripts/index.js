@@ -110,11 +110,10 @@ exports.handle = (client) => {
       // configure responses to be automatically sent as predicted by the machine learning model
     },
     streams: {
-      goodbye: handleGoodbye,
-      greeting: handleGreeting,
+      //goodbye: handleGoodbye,
+      //greeting: handleGreeting,
       main: 'getWeather',
-      onboarding: [sayHello],
-      end: [untrained],
+      hi: [sayHello],
       getWeather: [collectCity, provideWeather],
     },
   })
